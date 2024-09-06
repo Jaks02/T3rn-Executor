@@ -5,7 +5,7 @@
 | Site | Wakwaw |
 | ------ | ------ |
 | Website | https://t3rn.io |
-| Faucet | <https://faucet.brn.t3rn.io [https://faucet.brn.t3rn.io]>|
+| Faucet | https://faucet.brn.t3rn.io |
 | Discord | https://discord.gg/9D428mKe |
 
 
