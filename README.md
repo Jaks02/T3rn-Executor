@@ -1,7 +1,6 @@
 # T3rn-Executor
 
-## Node T3rn
-Siapkan Private key EVM isi faucet
+- Siapkan Private key EVM isi faucet
 
 | Site | Wakwaw |
 | ------ | ------ |
