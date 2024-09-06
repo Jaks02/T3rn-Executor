@@ -8,10 +8,10 @@
 | Faucet | https://faucet.brn.t3rn.io |
 
 
-1. Siapkan Private key EVM  
+## 1. Siapkan Private key EVM  
 
 
-### Auto Install 
+## Auto Install 
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/zamzasalim/T3rn-Executor/main/T3rn.sh)
@@ -19,20 +19,21 @@ bash <(curl -s https://raw.githubusercontent.com/zamzasalim/T3rn-Executor/main/T
 
 
 
-##### Command lainnya
-Log
+### Command etc
+
+### Log
 ```
 sudo journalctl -u executor -f
 ```
-Restart
+### Restart
 ```
 sudo systemctl restart executor
 ```
-Start
+### Start
 ```
 sudo systemctl start executor
 ```
-Stop
+### Stop
 ```
 sudo systemctl Stop executor
 ```
