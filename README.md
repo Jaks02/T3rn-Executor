@@ -1,10 +1,14 @@
 # T3rn-Executor
 
 ##Node T3rn
-Siapkan PK isi faucet
+Siapkan Private key EVM isi faucet
+
+| Site | Wakwaw |
+| ------ | ------ |
+| Website | https://t3rn.io |
+| Faucet | https://faucet.brn.t3rn.io |
 
 
-https://faucet.brn.t3rn.io/
 minimal 0.1 untuk jalankan
 
 
