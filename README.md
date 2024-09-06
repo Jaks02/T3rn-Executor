@@ -43,5 +43,6 @@ sudo systemctl Stop executor
 
 
 ### hapus
-
+```
 sudo systemctl stop executor && sudo systemctl disable executor && sudo rm /etc/systemd/system/executor.service && sudo systemctl daemon-reload && rm -rf executor-linux-v0.20.0.tar.gz executor && systemctl status executor
+```
