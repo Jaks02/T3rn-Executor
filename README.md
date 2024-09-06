@@ -1,6 +1,6 @@
 # T3rn-Executor
 
-- Siapkan Private key EVM isi faucet
+
 
 | Site | Wakwaw |
 | ------ | ------ |
@@ -8,8 +8,8 @@
 | Faucet | https://faucet.brn.t3rn.io |
 
 
+1. Siapkan Private key EVM  
 minimal 0.1 untuk jalankan
-
 
 
 ### Auto Install 
