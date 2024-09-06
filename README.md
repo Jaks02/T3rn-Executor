@@ -6,6 +6,7 @@
 | ------ | ------ |
 | Website | https://t3rn.io |
 | Faucet | https://faucet.brn.t3rn.io |
+| Discord | [https://faucet.brn.t3rn.io](https://discord.gg/9D428mKe) |
 
 
 ## 1. Siapkan Private key EVM  
@@ -38,11 +39,9 @@ sudo systemctl start executor
 sudo systemctl Stop executor
 ```
 
-Role kirim screenshot log nodenya kirim ke
-
-https://discord.gg/9D428mKe
+### Role kirim screenshot log nodenya kirim ke
 
 
-hapus
+### hapus
 
 sudo systemctl stop executor && sudo systemctl disable executor && sudo rm /etc/systemd/system/executor.service && sudo systemctl daemon-reload && rm -rf executor-linux-v0.20.0.tar.gz executor && systemctl status executor
