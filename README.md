@@ -9,7 +9,6 @@
 
 
 1. Siapkan Private key EVM  
-minimal 0.1 untuk jalankan
 
 
 ### Auto Install 
