@@ -9,7 +9,7 @@ log() {
 curl -s https://data.zamzasalim.xyz/file/uploads/Logo-zamza.sh | bash
 sleep 5
 
-read -p "Enter your PRIVATE_KEY_LOCAL: " PRIVATE_KEY_LOCAL
+read -p "Submit Private Key Metamask: " PRIVATE_KEY_LOCAL
 
 echo "T3rn Executor!"
 
