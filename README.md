@@ -45,7 +45,7 @@ sudo systemctl start executor
 ```
 ### Stop
 ```
-sudo systemctl Stop executor
+sudo systemctl stop executor
 ```
 
 ### Role kirim screenshot log nodenya kirim ke
