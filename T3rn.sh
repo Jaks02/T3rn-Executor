@@ -99,6 +99,8 @@ WorkingDirectory=/root/executor/executor
 Environment="NODE_ENV=testnet"
 Environment="LOG_LEVEL=info"
 Environment="LOG_PRETTY=false"
+Environment="EXECUTOR_PROCESS_CLAIMS=true"
+Environment="EXECUTOR_PROCESS_ORDERS=false"
 Environment="PRIVATE_KEY_LOCAL=0x$PRIVATE_KEY_LOCAL"
 Environment="ENABLED_NETWORKS=$ENABLED_NETWORKS"
 ExecStart=/root/executor/executor/bin/executor
