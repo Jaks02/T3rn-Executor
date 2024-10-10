@@ -61,6 +61,8 @@ set_environment_variables() {
     export NODE_ENV=testnet
     export LOG_LEVEL=info
     export LOG_PRETTY=false
+    export EXECUTOR_PROCESS_CLAIMS=true
+    export EXECUTOR_PROCESS_ORDERS=false
     echo "Environment variables set: NODE_ENV=$NODE_ENV, LOG_LEVEL=$LOG_LEVEL, LOG_PRETTY=$LOG_PRETTY"
 }
 
